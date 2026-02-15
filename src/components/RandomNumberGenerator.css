@@ -1,0 +1,30 @@
+.container {
+  text-align: center;
+  margin-top: 100px;
+  font-family: Arial, sans-serif;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #45a049;
+}
+
+.number {
+  font-size: 40px;
+  font-weight: bold;
+  color: #333;
+}
+
+.placeholder {
+  font-size: 18px;
+  color: gray;
+}
